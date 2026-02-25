@@ -1,16 +1,16 @@
 {
-    "name": "OtaXxx17/Baileys",
-    "version": "2.1.7",
-    "description": "WhatsApp Modified By OTAX",
+    "name": "Razzx-notdev/New-Baileys",
+    "version": "3.0.0",
+    "description": "WhatsApp Modified By Razzxnotdev",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/OtaXxx17/Baileys",
+    "homepage": "https://github.com/Razzx-notdev/New-Baileys",
     "repository": {
-        "url": "https://github.com/OtaXxx17/Baileys"
+        "url": "https://github.com/Razzx-notdev/New-Baileys"
     },
     "license": "MIT",
-    "author": "Orang Biasa",
+    "author": "Hanya Orang Biasa",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
