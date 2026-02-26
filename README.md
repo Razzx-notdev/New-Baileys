@@ -1,4 +1,4 @@
-# X-X-GTR-X PROJECT BAILEYS BY Razzxnotdev
+# X-X-GT-R PROJECT BAILEYS BY Razzxnotdev
 
 <p align="center">
   <img src="https://files.catbox.moe/369pux.jpg" alt="Thumbnail" />
