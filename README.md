@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:Razzx-notdev/WaBaileys"
+  "@whiskeysockets/baileys": "github:Razzx-notdev/New-Baileys"
 }
 ```
 ## Import
